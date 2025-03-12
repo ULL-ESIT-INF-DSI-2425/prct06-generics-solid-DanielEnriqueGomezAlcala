@@ -14,13 +14,6 @@ export class ArithmeticableCollection<T extends Arithmeticable<T>> {
   }
 
   /**
-   * Setter de la coleccion
-   */
-  set coleccion(coleccion: T[]) {
-    this.coleccion_ = coleccion
-  }
-
-  /**
    * Metodo que agrega un elemento Arithmeticable a la coleccion
    * 
    * @param val - Valor que se agregará a la coleccion
