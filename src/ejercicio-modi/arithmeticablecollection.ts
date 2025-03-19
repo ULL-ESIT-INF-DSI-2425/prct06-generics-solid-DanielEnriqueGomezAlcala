@@ -1,4 +1,4 @@
-import { Arithmeticable } from "./arithmeticable";
+import { Arithmeticable } from "./arithmeticable.js";
 
 /**
  * Clase que define una coleccion de Arithmeticable

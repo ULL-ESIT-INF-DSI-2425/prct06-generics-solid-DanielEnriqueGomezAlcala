@@ -1,4 +1,4 @@
-import { BasicStreamableCollection } from "./basicstreamablecollection"
+import { BasicStreamableCollection } from "./basicstreamablecollection.js"
 
 interface Content {
   name: string

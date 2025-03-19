@@ -1,4 +1,4 @@
-import { Streamable } from "./streamable";
+import { Streamable } from "./streamable.js";
 
 /**
  * Clase que representa una colección de peliculas, series o documentales
